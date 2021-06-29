@@ -4,5 +4,5 @@ import json
 
 request = {'q' : 'ent.wfb'}
 
-print "kogda tebe nuzhno sdelat bolshoy"
+print ("kogda tebe nuzhno sdelat bolshoy")
 
